@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: It doesn't flash up if we click on a new page. It's a lot smoother at just adds something to the URL(instead of creating a new one), whatever we put the path to.
 
 ## Project Set Up
 
